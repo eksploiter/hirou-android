@@ -95,4 +95,4 @@
 
 
 ## Result of the Contest
-- CAPSTONE DESIGN for 4th grade 1st semester - a silver award 🥈 (2nd place)
+- CAPSTONE DESIGN - a silver award 🥈 (2nd place)
